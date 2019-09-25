@@ -20,6 +20,7 @@ class ResponsesController < ApplicationController
     data = {
       author: "Cookie Monster",
       quote:"Early bird gets the worm. But cookie taste better than worm. So me sleep in.",
+      nothing: "Just trying to get that check mark that I missed....."
     }
   end
 
